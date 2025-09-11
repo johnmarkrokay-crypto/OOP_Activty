@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\bin\Debug\EXER_08 Inheritance with User Input.exe.config
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\bin\Debug\EXER_08 Inheritance with User Input.exe
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\bin\Debug\EXER_08 Inheritance with User Input.pdb
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\obj\Debug\EXER_08 Inheritance with User Input.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\obj\Debug\EXER_08 Inheritance with User Input.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\obj\Debug\EXER_08 Inheritance with User Input.exe
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\obj\Debug\EXER_08 Inheritance with User Input.pdb
+C:\Users\ACT-STUDENT\Downloads\EXER_8\EXER_08 Inheritance with User Input\EXER_08 Inheritance with User Input\obj\Debug\EXER_08 Inheritance with User Input.exe.config
